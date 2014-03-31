@@ -1,0 +1,9 @@
+Building SoftwareCoin
+
+See doc/readme-qt.rst for instructions on building SoftwareCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SoftwareCoin.
+
+See doc/build-*.txt for instructions on building SoftwareCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SoftwareCoin.
